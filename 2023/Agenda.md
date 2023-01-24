@@ -17,9 +17,11 @@ How to get away with Malware
 **Dimitri Di Cristofaro**
 
 Circumventing Static Analysis and Sandboxes
+
 [PDF](/How_to_Get_Away_with_Malware/bsides2023_how_to_get_away_with_malware_FINAL_NO_ANIM.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
+
 10:00-10:50 Sala Maria 
 
 I will IDOR myself in
@@ -28,7 +30,7 @@ I will IDOR myself in
 
 How could attackers gain control of hundreds of million devices? In this talk Vangelis explains how attackers can exploit a series of simple, yet critical API flaws that are typical “rush to market” flaws which allow an attacker to control and even use them as an initial foothold in millions of networks.
 
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/I_will_IDOR_myself_in/I_will_IDOR_myself_in.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
@@ -40,7 +42,7 @@ Who said python was UNIX best friend only?
 
 In this talk, Xavier will present some findings that I collected for a while around Python malicious code in the Windows ecosystem
 
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/Agenda.md)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
@@ -58,7 +60,7 @@ Tampering the RAM: a new way to break into any VM
 
 Are you sure your VM is secure?
 
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/Tampering_the_RAM:_a_new_way_to_break_into_any_VM/Tampering_the_RAM_a_new_way_to_break_into_any_VM.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
@@ -70,7 +72,7 @@ How to break the Modbus protocol and Cause a DoS on a PLC
 
 We are going to see live attack simulation to an OT system controlled by a Modicon M580 PLC from Schneider Electric and an HMI panel connected with Modbus/TCP protocol
 
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/How_to_break_the_Modbus_protocol_and_Cause_a_DoS_on_a_PLC/BSidesRoma_PLC_DoS_Omar_Morando_EN.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
@@ -87,7 +89,7 @@ We will cover the accumulation of the patches missed, the risks accepted, and th
 
 17:00-17:50 Sala Maria 
 
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/Security_Debt_running_with_Scissors/Security_Debt_running_with_Scissors.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
@@ -97,6 +99,6 @@ Save The Environment (Variable): Hijacking Legitimate Applications with a Minima
 
 18:00-18:50 Sala Maria 
 
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/Agenda.md)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
