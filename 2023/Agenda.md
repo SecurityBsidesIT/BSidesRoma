@@ -17,7 +17,8 @@ How to get away with Malware
 **Dimitri Di Cristofaro**
 
 Circumventing Static Analysis and Sandboxes
-[PDF](/How_to_Get_Away_with_Malware /How_to_Get_Away_with_Malware.pdf)
+[PDF](/How_to_Get_Away_with_Malware/bsides2023_how_to_get_away_with_malware_FINAL_NO_ANIM.pdf)
+
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 10:00-10:50 Sala Maria 
 
