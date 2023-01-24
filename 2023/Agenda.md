@@ -22,6 +22,10 @@ Circumventing Static Analysis and Sandboxes
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
+[DEMO](/How_to_Get_Away_with_Malware/BsidesRome2023DEMO.mp4)
+
+[Extra Material](/How_to_Get_Away_with_Malware)
+
 10:00-10:50 Sala Maria 
 
 I will IDOR myself in
@@ -42,7 +46,7 @@ Who said python was UNIX best friend only?
 
 In this talk, Xavier will present some findings that I collected for a while around Python malicious code in the Windows ecosystem
 
-[PDF](/Agenda.md)
+[PDF](/Who_said_python_was_UNIX_best_friend_only/Python-Windows-Best-Friend-4.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
@@ -99,6 +103,10 @@ Save The Environment (Variable): Hijacking Legitimate Applications with a Minima
 
 18:00-18:50 Sala Maria 
 
-[PDF](/Agenda.md)
+[PDF](/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/BEUKEMA, WIETZE - Save The Environment (Variable) - PRESENTATIONv1.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
+
+[DEMO - 1](/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/DEMO 1.mp4)
+
+[DEMO - 2](/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/DEMO2.mp4)
