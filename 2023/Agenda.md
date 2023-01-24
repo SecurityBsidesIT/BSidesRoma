@@ -103,10 +103,10 @@ Save The Environment (Variable): Hijacking Legitimate Applications with a Minima
 
 18:00-18:50 Sala Maria 
 
-[PDF]('/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/BEUKEMA, WIETZE - Save The Environment (Variable) - PRESENTATIONv1.pdf')
+[PDF](/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/Save_The_Environment_(Variable).pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
-[DEMO - 1]('/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/DEMO 1.mp4')
+[DEMO - 1]('/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/DEMO1.mp4')
 
 [DEMO - 2](/Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/DEMO2.mp4)
