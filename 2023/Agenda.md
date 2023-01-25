@@ -62,9 +62,7 @@ Tampering the RAM: a new way to break into any VM
 ------------
 **Francesco Marano**
 
-Are you sure your VM is secure?
-
-[PDF](Tampering_the_RAM:_a_new_way_to_break_into_any_VM/Tampering_the_RAM_a_new_way_to_break_into_any_VM.pdf)
+[PDF](https://github.com/SecurityBsidesIT/BSidesRoma/blob/841fc34128a41f1fcf24bf11baed27221044d535/2023/Tampering_the_RAM:_a_new_way_to_break_into_any_VM/Tampering_the_RAM_a_new_way_to_break_into_any_VM.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
