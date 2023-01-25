@@ -4,6 +4,8 @@ Time: 22/01/2023
 ------------
 Website: [SecurityBSides Roma](https://roma.securitybsides.it)
 
+[RECORDING LIVE STREAM](https://www.twitch.tv/securitycert/videos)
+
 Agenda
 ------------
 
@@ -20,7 +22,7 @@ Circumventing Static Analysis and Sandboxes
 
 [PDF](How_to_Get_Away_with_Malware/bsides2023_how_to_get_away_with_malware_FINAL_NO_ANIM.pdf)
 
-[VIDEO](https://www.twitch.tv/securitycert/videos)
+[VIDEO](https://www.youtube.com/watch?v=ySvDv2AKwCM)
 
 [DEMO](How_to_Get_Away_with_Malware/BsidesRome2023DEMO.mp4)
 
