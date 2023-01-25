@@ -34,7 +34,7 @@ I will IDOR myself in
 
 How could attackers gain control of hundreds of million devices? In this talk Vangelis explains how attackers can exploit a series of simple, yet critical API flaws that are typical “rush to market” flaws which allow an attacker to control and even use them as an initial foothold in millions of networks.
 
-[PDF](I_will_IDOR_myself_in/I_will_IDOR_myself_in.pdf)
+[PDF](I_will_IDOR_myself_in/I_will_IDOR_myself_in.PDF)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
