@@ -18,13 +18,13 @@ How to get away with Malware
 
 Circumventing Static Analysis and Sandboxes
 
-[PDF](/How_to_Get_Away_with_Malware/bsides2023_how_to_get_away_with_malware_FINAL_NO_ANIM.pdf)
+[PDF](How_to_Get_Away_with_Malware/bsides2023_how_to_get_away_with_malware_FINAL_NO_ANIM.pdf)
 
 [VIDEO](https://www.twitch.tv/securitycert/videos)
 
-[DEMO](/How_to_Get_Away_with_Malware/BsidesRome2023DEMO.mp4)
+[DEMO](How_to_Get_Away_with_Malware/BsidesRome2023DEMO.mp4)
 
-[Extra Material](/How_to_Get_Away_with_Malware)
+[Extra Material](How_to_Get_Away_with_Malware)
 
 10:00-10:50 Sala Maria 
 
