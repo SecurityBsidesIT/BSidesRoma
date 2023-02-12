@@ -38,7 +38,7 @@ How could attackers gain control of hundreds of million devices? In this talk Va
 
 [PDF](I_will_IDOR_myself_in/I_will_IDOR_myself_in.PDF)
 
-[VIDEO](https://www.twitch.tv/securitycert/videos)
+[VIDEO](https://www.youtube.com/watch?v=Yj6QXbWlfWI)
 
 11:00-11:50 Sala Maria 
 
@@ -50,7 +50,7 @@ In this talk, Xavier will present some findings that I collected for a while aro
 
 [PDF](Who_said_python_was_UNIX_best_friend_only/Python-Windows-Best-Friend-4.pdf)
 
-[VIDEO](https://www.twitch.tv/securitycert/videos)
+[VIDEO](https://www.youtube.com/watch?v=JEC2Bwelqlw)
 
 12:00-12:50 Sala Maria 
 
@@ -78,7 +78,7 @@ We are going to see live attack simulation to an OT system controlled by a Modic
 
 [PDF](How_to_break_the_Modbus_protocol_and_Cause_a_DoS_on_a_PLC/BSidesRoma_PLC_DoS_Omar_Morando_EN.pdf)
 
-[VIDEO](https://www.twitch.tv/securitycert/videos)
+[VIDEO](https://www.youtube.com/watch?v=BiRHRkCGXkU)
 
 15:00-15:50 Sala Maria 
 
@@ -95,7 +95,7 @@ We will cover the accumulation of the patches missed, the risks accepted, and th
 
 [PDF](Security_Debt_running_with_Scissors/Security_Debt_running_with_Scissors.pdf)
 
-[VIDEO](https://www.twitch.tv/securitycert/videos)
+[VIDEO](https://www.youtube.com/watch?v=7cyE3PrY5wY)
 
 Save The Environment (Variable): Hijacking Legitimate Applications with a Minimal Footprint
 ------------
@@ -105,7 +105,7 @@ Save The Environment (Variable): Hijacking Legitimate Applications with a Minima
 
 [PDF](Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/Save_The_Environment_(Variable).pdf)
 
-[VIDEO](https://www.twitch.tv/securitycert/videos)
+[VIDEO](https://www.youtube.com/watch?v=B77y3L4qBNs)
 
 [DEMO - 1](Save_The_Environment_(Variable)_Hijacking_Legitimate_Applications_with_a_Minimal_Footprint/DEMO1.mp4)
 
